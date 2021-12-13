@@ -1,0 +1,33 @@
+body{
+    background-color: #E99494;
+    font-family: sans-serif;
+}
+
+.container{
+
+}
+
+.message-container{
+    text-align: center;
+    margin-top: 350px;
+    
+}
+
+#lastMsg{
+    color: #A03939;
+}
+
+#text{
+    border-radius: 3px;
+    border: black;
+    font-size: 16px;
+}
+
+#send{
+    font-size: 16px;
+    border-radius: 3px;
+    border: none;
+    text-transform: uppercase;
+    background-color: #AE7575;
+    font-weight: bold;
+}
